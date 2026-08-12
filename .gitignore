@@ -1,7 +1,1 @@
-# Ignore dataset folders anywhere in repo
-**/dataset/
-**/cats_set/
-**/dogs_set/
-
-# ya specifically:
-ImageClassification/Cats-Dogs_img_Classification/dataset/
+/dataset
